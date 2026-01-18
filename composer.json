@@ -1,0 +1,13 @@
+{
+  "name": "school/mini-mvc",
+  "description": "Mini projet MVC pédagogique (léger)",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Mini\\": "app/"
+    }
+  },
+  "minimum-stability": "stable",
+  "license": "MIT"
+}
